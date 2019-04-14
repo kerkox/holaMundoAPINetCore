@@ -1,0 +1,28 @@
+C:\Users\jhon.tobar\source\repos\HolaMundoAPI\HolaMundoAPI\bin\Debug\netcoreapp2.2\HolaMundoAPI.deps.json
+C:\Users\jhon.tobar\source\repos\HolaMundoAPI\HolaMundoAPI\bin\Debug\netcoreapp2.2\HolaMundoAPI.runtimeconfig.json
+C:\Users\jhon.tobar\source\repos\HolaMundoAPI\HolaMundoAPI\bin\Debug\netcoreapp2.2\HolaMundoAPI.runtimeconfig.dev.json
+C:\Users\jhon.tobar\source\repos\HolaMundoAPI\HolaMundoAPI\bin\Debug\netcoreapp2.2\HolaMundoAPI.dll
+C:\Users\jhon.tobar\source\repos\HolaMundoAPI\HolaMundoAPI\bin\Debug\netcoreapp2.2\HolaMundoAPI.pdb
+C:\Users\jhon.tobar\source\repos\HolaMundoAPI\HolaMundoAPI\obj\Debug\netcoreapp2.2\HolaMundoAPI.csprojAssemblyReference.cache
+C:\Users\jhon.tobar\source\repos\HolaMundoAPI\HolaMundoAPI\obj\Debug\netcoreapp2.2\HolaMundoAPI.csproj.CoreCompileInputs.cache
+C:\Users\jhon.tobar\source\repos\HolaMundoAPI\HolaMundoAPI\obj\Debug\netcoreapp2.2\HolaMundoAPI.RazorAssemblyInfo.cache
+C:\Users\jhon.tobar\source\repos\HolaMundoAPI\HolaMundoAPI\obj\Debug\netcoreapp2.2\HolaMundoAPI.RazorAssemblyInfo.cs
+C:\Users\jhon.tobar\source\repos\HolaMundoAPI\HolaMundoAPI\obj\Debug\netcoreapp2.2\HolaMundoAPI.AssemblyInfoInputs.cache
+C:\Users\jhon.tobar\source\repos\HolaMundoAPI\HolaMundoAPI\obj\Debug\netcoreapp2.2\HolaMundoAPI.AssemblyInfo.cs
+C:\Users\jhon.tobar\source\repos\HolaMundoAPI\HolaMundoAPI\obj\Debug\netcoreapp2.2\HolaMundoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jhon.tobar\source\repos\HolaMundoAPI\HolaMundoAPI\obj\Debug\netcoreapp2.2\HolaMundoAPI.dll
+C:\Users\jhon.tobar\source\repos\HolaMundoAPI\HolaMundoAPI\obj\Debug\netcoreapp2.2\HolaMundoAPI.pdb
+D:\GoogleSync\Proyectos\Emprendimientos\Instagram API\HolaMundoAPI\HolaMundoAPI\bin\Debug\netcoreapp2.2\HolaMundoAPI.deps.json
+D:\GoogleSync\Proyectos\Emprendimientos\Instagram API\HolaMundoAPI\HolaMundoAPI\bin\Debug\netcoreapp2.2\HolaMundoAPI.runtimeconfig.json
+D:\GoogleSync\Proyectos\Emprendimientos\Instagram API\HolaMundoAPI\HolaMundoAPI\bin\Debug\netcoreapp2.2\HolaMundoAPI.runtimeconfig.dev.json
+D:\GoogleSync\Proyectos\Emprendimientos\Instagram API\HolaMundoAPI\HolaMundoAPI\bin\Debug\netcoreapp2.2\HolaMundoAPI.dll
+D:\GoogleSync\Proyectos\Emprendimientos\Instagram API\HolaMundoAPI\HolaMundoAPI\bin\Debug\netcoreapp2.2\HolaMundoAPI.pdb
+D:\GoogleSync\Proyectos\Emprendimientos\Instagram API\HolaMundoAPI\HolaMundoAPI\obj\Debug\netcoreapp2.2\HolaMundoAPI.csprojAssemblyReference.cache
+D:\GoogleSync\Proyectos\Emprendimientos\Instagram API\HolaMundoAPI\HolaMundoAPI\obj\Debug\netcoreapp2.2\HolaMundoAPI.csproj.CoreCompileInputs.cache
+D:\GoogleSync\Proyectos\Emprendimientos\Instagram API\HolaMundoAPI\HolaMundoAPI\obj\Debug\netcoreapp2.2\HolaMundoAPI.RazorAssemblyInfo.cache
+D:\GoogleSync\Proyectos\Emprendimientos\Instagram API\HolaMundoAPI\HolaMundoAPI\obj\Debug\netcoreapp2.2\HolaMundoAPI.RazorAssemblyInfo.cs
+D:\GoogleSync\Proyectos\Emprendimientos\Instagram API\HolaMundoAPI\HolaMundoAPI\obj\Debug\netcoreapp2.2\HolaMundoAPI.AssemblyInfoInputs.cache
+D:\GoogleSync\Proyectos\Emprendimientos\Instagram API\HolaMundoAPI\HolaMundoAPI\obj\Debug\netcoreapp2.2\HolaMundoAPI.AssemblyInfo.cs
+D:\GoogleSync\Proyectos\Emprendimientos\Instagram API\HolaMundoAPI\HolaMundoAPI\obj\Debug\netcoreapp2.2\HolaMundoAPI.RazorTargetAssemblyInfo.cache
+D:\GoogleSync\Proyectos\Emprendimientos\Instagram API\HolaMundoAPI\HolaMundoAPI\obj\Debug\netcoreapp2.2\HolaMundoAPI.dll
+D:\GoogleSync\Proyectos\Emprendimientos\Instagram API\HolaMundoAPI\HolaMundoAPI\obj\Debug\netcoreapp2.2\HolaMundoAPI.pdb
